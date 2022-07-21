@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flansh1137
+- 👋 Hi, I’m @Flansh Gajbhiye
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on smart contract blockchain
