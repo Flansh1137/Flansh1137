@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Flansh Gajbhiye</h1>
 <h3 align="center">A passionate full-stack web developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
@@ -15,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://in.linkedin.com/in/flansh-gajbhiye-b68066203" target="blank"><img align="center" src="https://github.com/Flansh1137" alt="flansh gajbhiye" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@flanshgajbhiye4259" target="blank"><img align="center" src="https://github.com/Flansh1137" alt="flansh gajbhiye" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/flansh-gajbhiye-b68066203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flansh gajbhiye" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@flanshgajbhiye4259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="flansh gajbhiye" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
