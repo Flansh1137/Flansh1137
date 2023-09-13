@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flansh1137&label=Profile%20views&color=0e75b6&style=flat" alt="flansh1137" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React.js & Node.js**
 
